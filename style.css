@@ -1,0 +1,16 @@
+.h{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+body{
+    background-size: cover;
+}
+#a{
+    font-size: 15px;
+    color: rgb(17, 17, 15);
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
